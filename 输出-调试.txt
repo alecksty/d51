@@ -1,0 +1,4 @@
+“d51.exe”: 已加载“F:\Backup\我的文档\Visual Studio Projects\d51\Debug\d51.exe”，已加载符号。
+“d51.exe”: 已加载“C:\WINDOWS\system32\ntdll.dll”，未加载任何符号。
+“d51.exe”: 已加载“C:\WINDOWS\system32\kernel32.dll”，未加载任何符号。
+程序“[3352] d51.exe: 本机”已退出，返回值为 0 (0x0)。

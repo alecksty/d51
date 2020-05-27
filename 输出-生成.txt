@@ -1,0 +1,33 @@
+------ 已启动全部重新生成: 项目: d51, 配置: Release Win32 ------
+
+正在删除项目“d51”(配置“Release|Win32”)的中间文件和输出文件。
+正在编译...
+stdafx.cpp
+正在编译...
+d51.cpp
+d51.cpp(779) : warning C4313: “sprintf” : 格式字符串中的“%x”与“<未知>”类型的参数 1893349060 冲突
+正在链接...
+
+生成日志保存在“file://f:\Backup\我的文档\Visual Studio Projects\d51\Release\BuildLog.htm”中
+d51 - 0 错误，1 警告
+
+
+------ 已启动全部重新生成: 项目: d51, 配置: Debug Win32 ------
+
+正在删除项目“d51”(配置“Debug|Win32”)的中间文件和输出文件。
+正在编译...
+stdafx.cpp
+正在编译...
+d51.cpp
+f:\backup\我的文档\visual studio projects\d51\d51.cpp(779) : warning C4313: “sprintf” : 格式字符串中的“%x”与“<未知>”类型的参数 1893349060 冲突
+正在链接...
+
+生成日志保存在“file://f:\Backup\我的文档\Visual Studio Projects\d51\Debug\BuildLog.htm”中
+d51 - 0 错误，1 警告
+
+
+---------------------- 完成 ---------------------
+
+    全部重新生成: 2 已成功, 0 已失败, 0 已跳过
+
+
